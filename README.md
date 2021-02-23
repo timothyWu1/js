@@ -5,7 +5,7 @@ This is a website created for Ynov Paris Campus school students to respond a req
 
 the website allow the employees of PassionFroid to quickly and precisely find a picture needed thanks to a toolbar and many tags.
 
-Written by hands in HTML/CSS/PHP on Visual studio Code
+Written by hands in HTML/CSS/PHP and Xampp on Visual studio Code
 
 ### Regionnal account can :
 
