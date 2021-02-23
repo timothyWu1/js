@@ -13,11 +13,11 @@ Written by hands in HTML/CSS/PHP on Visual studio Code
 
 ### National account can :
 
- -modify an picture
+ - modify an picture
  
- -remove an picture
+ - remove an picture
  
- -registrate an new picture
+ - registrate an new picture
  
 ## Getting started 
  National account :
