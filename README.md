@@ -7,10 +7,10 @@ the website allow the employees of PassionFroid to quickly and precisely find a 
 
 Written by hands in HTML/CSS/PHP on Visual studio Code
 
-###Regionnal account can :
+### Regionnal account can :
  - only consult the picture
 
-###National account can :
+### National account can :
  -modify an picture
  -remove an picture
  -registrate an new picture
